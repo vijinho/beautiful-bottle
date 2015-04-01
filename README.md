@@ -4,7 +4,7 @@ Because there aren't enough Bottle skeleton web applications already in existenc
 
 ## Setup
 
-* `pip install bottle`
+* `pip install -r requirements.txt`
 
 ## Running
 
