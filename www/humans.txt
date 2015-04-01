@@ -1,0 +1,15 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# AUTHOR
+
+    Vijay Mahrra -- http://about.me/vijay.mahrra -- @vijinh0
+
+# THANKS
+
+    Jonathan Cremin -- @kudoz
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    Normalize.css, Skeleton, html5boilerplate
