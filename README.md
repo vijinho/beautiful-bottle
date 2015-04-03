@@ -1,5 +1,7 @@
 # Beautiful [Bottle](http://bottlepy.org/) Skeleton
 
+![Screenshot of homepage](tmp/screenshot.png)
+
 * Very BASIC skeleton, no external python libraries required than 'bottle'
 * Does not impose on or force you to develop your app in any particular way
 * Example includes basic CSS, HTML boilerplate code, including Google Analytics Tracking
