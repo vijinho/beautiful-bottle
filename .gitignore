@@ -10,7 +10,11 @@
 *.bak
 *.old
 *.pyc
+.idea
 # don't include third-party dependencies.
 lib/
 !lib/README.md
 .DS_Store
+content
+tmp/*
+config.py
