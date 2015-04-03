@@ -1,0 +1,10 @@
+# -*- coding: utf-8 -*-
+
+# Configuration for app.py
+CONFIG = {
+    'debug': True,
+    'ga_code': 'UA-0000000-1',
+    'title': '¡Hola!',
+    'author': 'Vijay Mahrra',
+    'webroot': 'www/'
+}

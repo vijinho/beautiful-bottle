@@ -1,0 +1,13 @@
+ErrorDocument 404 /error/404.html
+
+# Turn on URL rewriting
+RewriteEngine On
+
+# Installation directory
+RewriteBase /
+
+# Protect hidden files from being viewed
+<Files .*>
+        Order Deny,Allow
+        Deny From All
+</Files>

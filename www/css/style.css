@@ -2,7 +2,7 @@
 
 body {
   font-size: 2em;
-  line-height: 1.4;
+  line-height: 1.7;
   color: #404040;
   font-family: 'Raleway', sans-serif;
 }
@@ -157,4 +157,16 @@ blockquote p{
     margin-left: 0;
     width: 100%;
   }
+}
+
+.scrollbox-all-blogposts {
+    height: 300px;
+    width: 100%;
+    overflow: auto;
+}
+
+img {
+    min-width:100%;
+    max-width:100%;
+    height:auto;
 }
