@@ -8,7 +8,7 @@ Because there aren't enough Bottle skeleton web applications already in existenc
 
 ## Running
 
-* `python webapp.py`
+* `python app.py`
 * Browse to localhost:8080
 
 ## Credits
